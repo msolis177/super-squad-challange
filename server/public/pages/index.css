@@ -1,0 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+div.container{
+    height: 100%;
+    width: 80vw;
+    margin:  auto;
+}
+h1{
+    color: red;
+}
